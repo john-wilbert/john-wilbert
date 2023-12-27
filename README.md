@@ -82,7 +82,7 @@ git log
 
 ##  📄 Git Commands Cheat Sheet [Collaboration: John Aldrine Lim (pandesal 12)]
 
-### 6️⃣ git log
+### 6️⃣ git rebase
 <b>Use:</b> Apply any commits of current branch ahead of specified one.
 
 <b>Example:</b>
