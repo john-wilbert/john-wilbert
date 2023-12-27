@@ -5,14 +5,14 @@
 <h1 align="center">Hi 👋, I'm John Wilbert J. Laiño</h1>
 <h3 align="center">Currently a Computer Science student at Mapúa Malayan Colleges Laguna</h3>
 
-## 🧑‍💻 About Me 
+## 🧑‍💻 <b>About Me </b>
 - 💻 An aspiring Web | Game Developer
 - 🌐 Always open for opportunities and collaborations
 - 📫 Reach me: wilbertlaino21@gmail.com
 - 🌟 Learning new programming languages
 - 🌱 Currently exploring and trying to improve on web and game development
 
-## 🛠 Languages and Tools
+## 🛠 <b>Languages and Tools</b>
 
 <div align="center">
 
@@ -40,7 +40,7 @@
 </div>
 
 
-##  📄 Git Commands Cheat Sheet
+##  📄 <b>Git Commands Cheat Sheet</b>
 
 ### 1️⃣ git commit
 <b>Use:</b> The command captures a snapshot of the project's currently staged changes.
@@ -82,7 +82,7 @@ git reset [file]
 git log
 ```
 
-##  📄 Git Commands Cheat Sheet [Collaboration: John Aldrine Lim (pandesal 12)]
+##  📄 <b>Git Commands Cheat Sheet [Collaboration: John Aldrine Lim (pandesal 12)]</b>
 
 ### 6️⃣ git rebase
 <b>Use:</b> Apply any commits of current branch ahead of specified one.
