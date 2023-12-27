@@ -1,6 +1,6 @@
-<center>
-<img src="https://i.pinimg.com/originals/88/6a/66/886a665556086868270d117fe35d17bf.gif" >
-</center>
+<p align="center">
+<img alt="earth"src="https://i.pinimg.com/originals/88/6a/66/886a665556086868270d117fe35d17bf.gif">
+</p>
 
 <h1 align="center">Hi 👋, I'm John Wilbert J. Laiño</h1>
 <h3 align="center">Currently a Computer Science student at Mapúa Malayan Colleges Laguna</h3>
