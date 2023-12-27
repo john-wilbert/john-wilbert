@@ -1,5 +1,5 @@
 <p align="center">
-<img alt="earth"src="https://i.pinimg.com/originals/88/6a/66/886a665556086868270d117fe35d17bf.gif">
+<img alt="earth"src="https://github.com/john-wilbert/john-wilbert/blob/main/earth.gif?raw=true">
 </p>
 
 <h1 align="center">Hi 👋, I'm John Wilbert J. Laiño</h1>
