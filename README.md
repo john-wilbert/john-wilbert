@@ -80,5 +80,23 @@ git reset [file]
 git log
 ```
 
+##  📄 Git Commands Cheat Sheet [Collaboration: John Aldrine Lim (pandesal 12)]
+
+### 6️⃣ git log
+<b>Use:</b> Apply any commits of current branch ahead of specified one.
+
+<b>Example:</b>
+```bash
+git rebase [branch]
+```
+
+### 7️⃣ git log
+<b>Use:</b> Save modified and staged changes.
+
+<b>Example:</b>
+```bash
+git stash
+```
+
 
 
