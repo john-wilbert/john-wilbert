@@ -90,7 +90,7 @@ git log
 git rebase [branch]
 ```
 
-### 7️⃣ git log
+### 7️⃣ git stash
 <b>Use:</b> Save modified and staged changes.
 
 <b>Example:</b>
